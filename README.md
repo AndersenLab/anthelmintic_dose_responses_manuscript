@@ -8,7 +8,7 @@ Data, analysis scripts, and results from the article "Variation in anthelmintic 
 
 ## Code
 ### Required software: 
-1. [R-v3.4.1](https://www.r-project.org/)
+1. [R-v4.2.1](https://www.r-project.org/)
 1. [R/easyXpress](https://github.com/AndersenLab/easyXpress)
 1. [R/tidyverse](https://www.tidyverse.org/)
 1. [R/drc](https://cran.r-project.org/web/packages/drc/index.html)
