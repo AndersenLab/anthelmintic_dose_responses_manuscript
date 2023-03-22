@@ -14,4 +14,4 @@ Treatment of parasitic nematode infections in humans and livestock relies on a l
 1. [R/drc](https://cran.r-project.org/web/packages/drc/index.html)
 
 ## Data
-Additional data can be accessed via zenodo at DOI:10.5281/zenodo.7351693
+Additional data can be accessed via zenodo at https://doi.org/10.5281/zenodo.7351693
